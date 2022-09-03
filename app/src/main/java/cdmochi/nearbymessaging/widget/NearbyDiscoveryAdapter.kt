@@ -1,4 +1,4 @@
-package cdmochi.segment.control.nearbymessaging.widget
+package cdmochi.nearbymessaging.widget
 
 import android.view.ViewGroup
 import android.widget.TextView

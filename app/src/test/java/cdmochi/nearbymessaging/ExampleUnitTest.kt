@@ -1,4 +1,4 @@
-package cdmochi.segment.control.nearbymessaging
+package cdmochi.nearbymessaging
 
 import org.junit.Test
 

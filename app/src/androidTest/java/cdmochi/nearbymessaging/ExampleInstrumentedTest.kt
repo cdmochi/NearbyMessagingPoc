@@ -1,4 +1,4 @@
-package cdmochi.segment.control.nearbymessaging
+package cdmochi.nearbymessaging
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

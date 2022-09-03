@@ -1,4 +1,4 @@
-package cdmochi.segment.control.nearbymessaging
+package cdmochi.nearbymessaging
 
 import android.os.Build
 import android.os.Bundle
@@ -6,8 +6,8 @@ import android.util.Log
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 import androidx.recyclerview.widget.LinearLayoutManager
-import cdmochi.segment.control.nearbymessaging.databinding.ActivityMainBinding
-import cdmochi.segment.control.nearbymessaging.widget.NearbyDiscoveryAdapter
+import cdmochi.nearbymessaging.databinding.ActivityMainBinding
+import cdmochi.nearbymessaging.widget.NearbyDiscoveryAdapter
 import com.google.android.gms.nearby.Nearby
 import com.google.android.gms.nearby.messages.*
 import java.nio.charset.Charset

@@ -1,4 +1,4 @@
-package cdmochi.segment.control.nearbymessaging.widget
+package cdmochi.nearbymessaging.widget
 
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
